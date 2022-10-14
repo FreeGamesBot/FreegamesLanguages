@@ -1,0 +1,19 @@
+{
+    "singlewords":[{
+        "price": "Prijs",
+        "freeuntil": "Gratis tot",
+        "morelinks": "Meer links",
+        "supportserver": "Ondersteuningsserver",
+        "invitebot": "Nodig de robot uit",
+        "getit-browser": "Open in de browser",
+        "ratings": "Beoordelingen"
+        }],
+
+    "phrases":[{
+        "10webhhoks": "Fout :x: Er zijn 10/10 webhooks in dit kanaal, verwijder er een zodat meldingen werken.",
+        "cantcreatemissperms": "Fout :x: Kan geen webhook maken voor dit kanaal. Ontbrekende rechten",
+        "missingviewchannel": "Fout :x: Onbrekende rechten in {channel}. ``KANALEN_BEKIJKEN`` en ``BERICHTEN_VERSTUREN``",
+        "missingwebhookperms": "Fout :x:, Het recht``WEBHOOKS_BEHEREN`` ontbreekt in dit kanaal."
+        }]
+
+}
